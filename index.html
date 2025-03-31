@@ -74,7 +74,8 @@
         // }, 0.07)
 
         function removeTransition(e){
-            console.log(e);
+            if(e.propertyName !== "transform")
+            return;
         }
 
         const keys= document.querySelectorAll(".key");
