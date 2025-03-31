@@ -32,13 +32,13 @@ As a note is selected the user should see a visible indication that the key and 
 
 ### Instructions
 1. Create an account for WesBro course. (It’s free !)
-2. Download the started code for the drum kit here
+2. Download the started code for the drumkit here(https://github.com/DevCenteredLearning/soundBytes)
 3. Rewatch the drum kit video at your own pace and complete index-START.html
 4. Create a new instrument using the mp3 files found in the sound directory from, have fun, mix different sound or create a traditional sounding instrument
 
 ## Additional Documentation and Acknowledgments
 - Project folder on server:
-- Link to project on production [title] (https://tokslaw.com)
+- Link to project on production https://tokslaw.com
 
 
 
